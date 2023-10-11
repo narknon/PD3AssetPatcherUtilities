@@ -11,6 +11,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\UAssetAPI\UAssetAPI.csproj" />
+      <ProjectReference Include="..\UAssetAPI\UAssetAPI\UAssetAPI.csproj" />
     </ItemGroup>
 
 </Project>
